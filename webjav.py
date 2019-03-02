@@ -14,7 +14,11 @@ import os
 os.system("clear")
 
 print """
-WebJav Exploiter Gan ! V.1"""
+=============================
+WebJav Exploiter Gan ! V.1
+Author : Cy#b3r00q
+Team : IndoSec Coder Team 
+============================="""
 
 def webdav():
   sc = ''
